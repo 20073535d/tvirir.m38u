@@ -3,10 +3,10 @@
 #EXTINF:-1 group-title="Brasil" tvg-name="CNN Brasil",CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 group-title="Brasil" tvg-name="Canal UOL",Canal UOL
+#EXTINF:-2 group-title="Brasil" tvg-name="Canal UOL",Canal UOL
 https://video24.mais.uol.com.br/live/6146.m3u8
 
-#EXTINF:-1 group-title="Brasil" tvg-name="Record News",Record News
+#EXTINF:-3 group-title="Brasil" tvg-name="Record News",Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 
 #EXTINF:-1 group-title="Internacional" tvg-name="OAN News",OAN News
